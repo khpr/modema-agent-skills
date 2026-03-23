@@ -1,0 +1,23 @@
+[
+  {
+    "name": "telegram_group_no_trigger",
+    "channel": "telegram",
+    "chat_type": "group",
+    "text": "大家晚安",
+    "expect_action": "mute"
+  },
+  {
+    "name": "telegram_group_trigger_cmd",
+    "channel": "telegram",
+    "chat_type": "group",
+    "text": "/小蝦 幫我看一下這段要怎麼改",
+    "expect_action": "reply"
+  },
+  {
+    "name": "line_group_trigger_but_still_mute",
+    "channel": "line",
+    "chat_type": "group",
+    "text": "@小蝦 你在嗎",
+    "expect_action": "mute"
+  }
+]
