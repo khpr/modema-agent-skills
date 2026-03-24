@@ -30,7 +30,7 @@ description: Enforce strict group-chat silence by default and only respond when 
 - 只輸出「一句詳細回答」，不追問、不延伸。
 - 尾註固定兩行：
   - `---`
-  - `🦐 要找我請 @小蝦 或 /小蝦 🦐`
+  - `🦐 找我請 @小蝦`
 
 4) **Channel rule**
 - **LINE 群組：永遠靜默**（就算觸發也不回）

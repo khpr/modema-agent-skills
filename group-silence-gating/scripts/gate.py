@@ -14,7 +14,7 @@ import json
 import re
 import sys
 
-FOOTER = "---\n🦐 要找我請 @小蝦 或 /小蝦 🦐"
+FOOTER = "---\n🦐 找我請 @小蝦"
 
 
 def contains_trigger(text: str) -> bool:
